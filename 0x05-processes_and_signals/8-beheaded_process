@@ -3,3 +3,4 @@
 
 # Terminate the infinate process
 pkill -9 "bash ./7-highlander" -f
+
