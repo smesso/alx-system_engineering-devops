@@ -1,0 +1,9 @@
+#!/bin/bash
+
+./4-to_infinity_and_beyond &
+
+PID=$!
+
+sleep 5
+
+kill $PID
